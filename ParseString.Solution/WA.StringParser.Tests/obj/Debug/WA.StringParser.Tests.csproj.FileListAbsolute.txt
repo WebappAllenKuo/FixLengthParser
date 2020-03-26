@@ -1,0 +1,14 @@
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\WA.StringParser.Tests.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\WA.StringParser.Tests.pdb
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\nunit.framework.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\WA.StringParser.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\WA.StringParser.pdb
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\bin\Debug\nunit.framework.xml
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\obj\Debug\WA.StringParser.Tests.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\obj\Debug\WA.StringParser.Tests.csproj.CopyComplete
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\obj\Debug\WA.StringParser.Tests.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser.Tests\obj\Debug\WA.StringParser.Tests.pdb

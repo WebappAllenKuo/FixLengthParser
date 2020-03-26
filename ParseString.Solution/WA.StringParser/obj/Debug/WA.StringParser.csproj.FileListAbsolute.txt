@@ -1,0 +1,5 @@
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser\bin\Debug\WA.StringParser.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser\bin\Debug\WA.StringParser.pdb
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser\obj\Debug\WA.StringParser.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser\obj\Debug\WA.StringParser.dll
+C:\Users\allen\source\repos\解析固定長度文字檔\ParseString.Solution\WA.StringParser\obj\Debug\WA.StringParser.pdb
