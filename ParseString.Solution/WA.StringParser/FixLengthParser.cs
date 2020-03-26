@@ -25,7 +25,7 @@ namespace WA.StringParser
 		    
 		    if (columnLengths == null) throw new ArgumentNullException(nameof(columnLengths));
             if (columnLengths.Length == 0) throw new ArgumentOutOfRangeException(nameof(columnLengths));
-            if(columnLengths.Any(item => item == 0)) throw new ArgumentOutOfRangeException($"{nameof(columnLengths)} 裡的長度不可以小於等於零");
+            if(columnLengths.Any(item => item <= 0)) throw new ArgumentOutOfRangeException($"{nameof(columnLengths)} 裡的長度不可以小於等於零");
             
             var result = new List<string[]>();
             foreach (var singleLine in System.IO.File.ReadAllLines(filePath,Encoding.GetEncoding(950)))
@@ -43,7 +43,7 @@ namespace WA.StringParser
         /// <returns></returns>
 	    public static string[] ParseSingleLine(string source, int[] columnLengths)
 	    {
-            if(string.IsNullOrWhiteSpace(source)) return new string[0];
+            if(string.IsNullOrWhiteSpace(source)) return new string[columnLengths.Length];
 
             byte[] bytes = Encoding.GetEncoding(950).GetBytes(source);
 

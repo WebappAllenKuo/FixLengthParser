@@ -19,7 +19,11 @@ namespace WA.StringParser.Tests
 			int[] columnLengths = {7,3 };
 			var result = FixLengthParser.ParseSingleLine(source, columnLengths);
 
-			result.Should().BeEmpty();
+			foreach (var item in result)
+			{
+				item.Should().BeNull();
+			}
+			
 		}
 
 		[TestCase("ab")]
