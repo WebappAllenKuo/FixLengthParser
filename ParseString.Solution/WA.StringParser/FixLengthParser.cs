@@ -28,7 +28,7 @@ namespace WA.StringParser
             if(columnLengths.Any(item => item == 0)) throw new ArgumentOutOfRangeException($"{nameof(columnLengths)} 裡的長度不可以小於等於零");
             
             var result = new List<string[]>();
-            foreach (var singleLine in System.IO.File.ReadAllLines(filePath))
+            foreach (var singleLine in System.IO.File.ReadAllLines(filePath,Encoding.GetEncoding(950)))
             {
 	         result.Add(ParseSingleLine(singleLine, columnLengths));   
             }
